@@ -1,5 +1,5 @@
 # President
-The President Card Game on mobile, built using React Native
+The President Card Game on mobile, built using React Native.
 
 ## TODO
 - [ ] Landing page
