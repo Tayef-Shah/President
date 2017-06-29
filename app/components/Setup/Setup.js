@@ -41,7 +41,7 @@ class Setup extends Component {
           onValueChange={(nextPlayer) => this.setState({nextPlayer: nextPlayer})} />
         <Button
           title="Start Game"
-          onPress={() => this.navigate('turnstartStart')}
+          onPress={() => this.navigate('turnstartPass')}
         />
       </View>
     );
